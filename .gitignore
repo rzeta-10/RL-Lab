@@ -1,0 +1,5 @@
+*.pdf
+slides/
+.vscode/
+lab*/.ipynb_checkpoints/
+lab*/.vscode/
