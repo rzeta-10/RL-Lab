@@ -1,5 +1,5 @@
 *.pdf
-slides/
+noor_slides/
 .vscode/
 lab*/.ipynb_checkpoints/
 lab*/.vscode/
